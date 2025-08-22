@@ -12,7 +12,7 @@ public class Main {
     public static void ejemplo1() {
        Scanner scanner = new Scanner(System.in);
         boolean lecturaExitosa = false;
-
+        
 
        do {
             try {
