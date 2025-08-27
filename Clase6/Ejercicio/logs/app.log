@@ -1,0 +1,8 @@
+2025-08-26 21:58:22 INFO  Main:10 - Iniciando la aplicacion
+2025-08-26 21:58:22 INFO  Main:16 - Informacion del empleado: Empleado{nombre='Juan', edad=30, salario=3000.0}
+2025-08-26 21:58:22 INFO  Main:17 - Informacion del gerente: Gerente{departamento='Ventas'} Empleado{nombre='Carlos', edad=40, salario=5000.0}
+2025-08-26 21:58:22 INFO  Main:24 - Informacion del empleado despues del aumento: Empleado{nombre='Juan', edad=30, salario=3010.0}
+2025-08-26 21:58:22 INFO  Main:25 - informacion del gerente despues del aumento: Gerente{departamento='Ventas'} Empleado{nombre='Carlos', edad=40, salario=5015.0}
+2025-08-26 21:58:22 INFO  Main:28 - Finalizando la aplicacion
+2025-08-26 21:58:22 ERROR Main:31 - Este es un mensaje de error
+2025-08-26 21:58:22 FATAL Main:32 - Este es un mensaje fatal
