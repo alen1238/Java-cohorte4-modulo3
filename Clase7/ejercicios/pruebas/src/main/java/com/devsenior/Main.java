@@ -2,6 +2,7 @@ package com.devsenior;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+     Calculadora calc = new Calculadora();
+     calc.sumar(5, 3); //argumentos 5 y 3.
     }
 }
